@@ -1,5 +1,5 @@
 # PS-RPS
-Older player shows:
+Older player shows: Scissors
 
 Younger player shows:
 Rock
